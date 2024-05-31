@@ -1,16 +1,28 @@
-## Hi there 👋
+# Datos sobre mi
+ 
 
-<!--
-**MAPER2007/MAPER2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, yo soy Mario, experto en dormir, me gusta hacer carne asada, jugar videojuegos, y la m�sica 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Top 3 mejores rolitas
+
+
+- When I'm alone (The Warning)
+
+- Automatic Sun (The Wa
+rning)
+- La Pura del Buio (Maneskin)
+
+
+## Prefiero 
+- Agua de jamaica
+- Agua de Limon
+- Musica
+- Rock
+- Panque de limon
+- Frio
+- Lluvia 
+- Doritos
+- Hola
+	En est6e momento me siento medio confundido sobre que estamos haciendo pero todo naiz. 

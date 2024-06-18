@@ -1,7 +1,7 @@
 # Datos sobre mi
  
 
-Hola, yo soy Mario, experto en dormir, me gusta hacer carne asada, jugar videojuegos, y la música 
+Hola, yo soy Mario, experto en dormir, me gusta hacer carne asada, jugar videojuegos, y la mÃºsica 
 
 
 
@@ -24,5 +24,4 @@ rning)
 - Frio
 - Lluvia 
 - Doritos
-- Hola
-	En est6e momento me siento medio confundido sobre que estamos haciendo pero todo naiz. 
+- Hola 

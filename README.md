@@ -1,11 +1,11 @@
 # Datos sobre mi
  
 
-Hola, yo soy Mario, experto en dormir, me gusta hacer carne asada, jugar videojuegos, y la música 
+Hola, soy Mario, me gusta Star Wars, escuchar musica, aprender cosas nuevas y los videojuegos
 
 
 
-## Top 3 mejores rolitas
+## Mis canciones favoritas
 
 
 - When I'm alone (The Warning)
@@ -22,6 +22,6 @@ rning)
 - Rock
 - Panque de limon
 - Frio
-- Lluvia 
-- Doritos
-- Hola 
+- Lluvia
+
+
